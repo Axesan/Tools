@@ -33,7 +33,7 @@ template_html_default = f"""
     <link rel="stylesheet" href="./style/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
      <!-- CSS DEFAULT -->
-    <title>troc</title>
+    <title>{saisie_folder}</title>
 </head>
 <body>
     <!-- As a link -->
